@@ -14,4 +14,8 @@ More details coming soon...
 
 ## License
 
-TBD
+License to be determined.
+
+## Contributing
+
+Contributions welcome! Stay tuned for contribution guidelines.
