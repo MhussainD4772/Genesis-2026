@@ -10,6 +10,8 @@ This repository is where we'll build an exciting game using cutting-edge technol
 
 More details coming soon...
 
+**Status**: Project in active development 🚀
+
 ## License
 
 TBD
