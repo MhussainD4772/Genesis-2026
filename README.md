@@ -10,6 +10,12 @@ This repository is where we'll build an exciting game using cutting-edge technol
 
 Technology stack details will be announced soon.
 
+## Features
+
+- Modern game development approach
+- Cross-platform support (planned)
+- Real-time multiplayer capabilities (planned)
+
 ## Getting Started
 
 More details coming soon...
