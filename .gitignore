@@ -1,0 +1,54 @@
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Build outputs
+build/
+dist/
+*.exe
+*.app
+*.dll
+*.so
+*.dylib
+
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Environment variables
+.env
+.env.local
+
+# Assets (if using source control - uncomment if needed)
+# *.png
+# *.jpg
+# *.jpeg
+# *.mp3
+# *.wav
+# *.ogg
