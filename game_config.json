@@ -1,0 +1,26 @@
+{
+  "game": {
+    "title": "Genesis 2026",
+    "version": "0.1.0",
+    "description": "A modern game built with cutting-edge 2026 technologies"
+  },
+  "settings": {
+    "defaultResolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "targetFPS": 60,
+    "fullscreen": false,
+    "vsync": true
+  },
+  "audio": {
+    "masterVolume": 1.0,
+    "musicVolume": 0.8,
+    "sfxVolume": 1.0
+  },
+  "gameplay": {
+    "difficulty": "normal",
+    "autoSave": true,
+    "autoSaveInterval": 300
+  }
+}

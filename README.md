@@ -8,7 +8,10 @@ This repository is where we'll build an exciting game using cutting-edge technol
 
 ## Tech Stack
 
-Technology stack details will be announced soon.
+- **Language**: Python 3.11+
+- **Graphics**: TBD (OpenGL/Vulkan/Unity/Unreal)
+- **Audio**: TBD
+- **Networking**: TBD (for multiplayer features)
 
 ## Features
 
@@ -18,7 +21,34 @@ Technology stack details will be announced soon.
 
 ## Getting Started
 
-More details coming soon...
+### Prerequisites
+
+- Python 3.11 or higher
+- pip package manager
+
+### Quick Start
+
+1. Clone the repository:
+```bash
+git clone https://github.com/MhussainD4772/Genesis-2026.git
+cd Genesis-2026
+```
+
+2. Run the game engine:
+```bash
+python src/main.py
+```
+
+### Project Structure
+
+```
+Genesis-2026/
+├── src/              # Source code
+│   └── main.py       # Main entry point
+├── game_config.json  # Game configuration
+├── .gitignore        # Git ignore rules
+└── README.md         # Project documentation
+```
 
 **Status**: Project in active development 🚀
 
