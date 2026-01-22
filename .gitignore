@@ -32,6 +32,12 @@ venv/
 env/
 .venv/
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
 # Logs
 *.log
 logs/
