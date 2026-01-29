@@ -52,6 +52,8 @@ Genesis-2026/
 
 **Status**: Project in active development 🚀
 
+Last updated: 2026
+
 ## License
 
 License to be determined.
